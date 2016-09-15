@@ -1,5 +1,6 @@
 package com.ociweb
 
+import com.ociweb.settings.HotWidgetSetting
 import grails.test.mixin.TestFor
 import spock.lang.Specification
 

@@ -1,14 +1,14 @@
 package com.ociweb
 
-import com.ociweb.settings.WidgetSetting
+import com.ociweb.industry.Manufacturing
 import grails.test.mixin.TestFor
 import spock.lang.Specification
 
 /**
  * See the API for {@link grails.test.mixin.domain.DomainClassUnitTestMixin} for usage instructions
  */
-@TestFor(WidgetSetting)
-class WidgetSettingSpec extends Specification {
+@TestFor(Manufacturing)
+class ManufacturingSpec extends Specification {
 
     def setup() {
     }
